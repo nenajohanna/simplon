@@ -1,0 +1,39 @@
+body
+{
+	color: black;
+	background-color: #40A497;
+
+	font-family: Roboto, sans serif;
+}
+
+h1
+{
+	text-align: center;
+}
+
+h5
+{
+	text-align: center;
+}
+
+
+img
+{
+display: flex;
+justify-content:  space-around;
+}
+
+section 
+{
+display: flex;
+justify-content: space-around;
+}
+footer{
+	background-color: grey;
+	text-align: right;
+	padding-right: 
+	color #4054a4
+	font-weight: bold;
+
+}
+
